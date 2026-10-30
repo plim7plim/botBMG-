@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+entrada/*
+!entrada/exemplo.csv
+saida/
+.perfil-navegador/
+outputs/
+node_modules/
+*.lnk
+*.log
+.env
+.env.*
